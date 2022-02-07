@@ -1,0 +1,176 @@
+{
+  "server_name": "khoury",
+  "server_id": 753022598392053770,
+  "menu_ids": [914252391640096788, 914252405372223589, 914252418907262997, 914252434707189820],
+"classes": {
+  "CY2550": [
+    861475647917129758,
+    "foundation of cybersecurity",
+    ""
+  ],
+  "MATH3081": [
+    861475742595416095,
+    "probability and statistic",
+    ""
+  ],
+  "CS3800": [
+    835999402048094278,
+    "theory of computation",
+    ""
+  ],
+  "CS3000": [
+    835998449300013059,
+    "algorithm and data",
+    ""
+  ],
+  "CS1800": [
+    861475408737468427,
+    "discrete structure",
+    ""
+  ],
+  "CS3520": [
+    836001992824455169,
+    "programming in c++",
+    ""
+  ],
+  "CS3200": [
+    840394666116513862,
+    "database design",
+    ""
+  ],
+  "DS3000": [
+    840394686635835392,
+    "foundation of data science",
+    ""
+  ],
+  "CS3500": [
+    835998433348419584,
+    "object-oriented design",
+    ""
+  ],
+  "CS2810": [
+    881370754552328232,
+    "mathematics of data models",
+    ""
+  ],
+  "CS2800": [
+    881365813234384957,
+    "logic and computation",
+    ""
+  ],
+  "DS2500": [
+    881364395018563625,
+    "intermediate programming with data",
+    ""
+  ],
+  "EECE2322": [
+    881364708018511922,
+    "Fundementals of Digital Design and Computer Organization",
+    ""
+  ],
+  "CS3700": [
+    881365506718855169,
+    "network and distribution systems",
+    ""
+  ],
+  "MATH3545": [
+    881370293367627907,
+    "introduction to graph theory",
+    ""
+  ],
+  "MATH4570": [
+    881370378558140427,
+    "Matrix Methods in Data Analysis and Machine Learning",
+    ""
+  ],
+  "PHIL1145": [
+    881370501199573012,
+    "technology and human values",
+    ""
+  ],
+  "CS3650": [
+    881370643487129610,
+    "computer systems",
+    ""
+  ],
+  "CS4550": [
+    881370963353174057,
+    "web development",
+    ""
+  ],
+  "DS4400": [
+    881371148976263198,
+    "machine learning and data mining",
+    ""
+  ],
+  "MATH2331": [
+    881371182086094963,
+    "linear algebra",
+    ""
+  ],
+  "DS4100": [
+    881372510401224715,
+    "data collection, integration, and analysis",
+    ""
+  ],
+  "CS4100": [
+    882005008671985754,
+    "foundation of artificial intelligence",
+    ""
+  ],
+  "CS2500": [
+    882261418051792947,
+    "fundamental of computer science",
+    ""
+  ],
+  "MATH2321": [
+    885224566752960583,
+    "multivariable calculus",
+    ""
+  ],
+  "CY4740": [
+    885224646327304223,
+    "network security",
+    ""
+  ],
+  "MATH1365": [
+    885226250380120104,
+    "introduction of mathematical reasoning",
+    ""
+  ],
+  "CS4400": [
+    885224712991551488,
+    "programming language",
+    ""
+  ],
+  "CS4500": [
+    885224343402078279,
+    "software development",
+    ""
+  ],
+  "CS1210": [
+    886097967923228682,
+    "professional development for khoury co-op",
+    ""
+  ],
+  "CS4810": [
+    888121044823601162,
+    "advanced algorithm",
+    ""
+  ],
+  "CS4530": [
+    905637866565165077,
+    "fundamental of software engineering",
+    ""
+  ],
+  "CS4410": [
+    905637699824791572,
+    "compiler",
+    ""
+  ],
+  "CS2510": [
+    905914577412313088,
+    "fundamental of computer science II",
+    ""
+  ]
+}}
